@@ -1,7 +1,5 @@
 # PYTestAnalysis
 原项目：https://github.com/pytest-dev/pytest
-根据您对 `Pytest` 框架进行分析的需求，下面是一个与您提供的 `WattToolkitAnalysis` 项目结构相似的结构，用于分析 `Pytest`：
-
 ### 项目名称：**PytestAnalysis**
 
 #### 项目简介
